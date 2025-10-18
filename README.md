@@ -28,24 +28,7 @@ O objetivo deste repositório é demonstrar minha evolução como desenvolvedor,
 
 ---
 
-## 🧩 Estrutura do repositório
-
-📦 projetos-python
-┣ 📂 automacao-cadastro-produtos
-┃ ┣ 📜 main.py
-┃ ┣ 📜 produtos.csv
-┃ ┗ 📜 README.md
-┣ 📂 projeto-2
-┣ 📂 projeto-3
-┗ 📂 projeto-4
-
-
----
-
-## 💬 Contato
-📧 **E-mail:** [seu-email@exemplo.com]  
-🔗 **LinkedIn:** [linkedin.com/in/seu-perfil](#)  
-🐙 **GitHub:** [github.com/SeuUsuario](https://github.com/SeuUsuario)
-
----
-🧩 *Cada pasta contém um README específico explicando o funcionamento detalhado de cada projeto.*
+## 👨‍💻 Desenvolvido por
+**Felipe Zanirato**  
+🔗 [GitHub](https://github.com/XxZaniratoxX)  
+📧 [felipe.zanirato@outlook.com](mailto:felipe.zanirato@outlook.com)
