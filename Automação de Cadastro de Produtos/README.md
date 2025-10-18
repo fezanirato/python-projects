@@ -30,16 +30,16 @@ Ao executar o script, o programa:
 
 ## 🧠 Tecnologias Utilizadas
 
-- **Python 3**
+- **Python**
 - **PyAutoGUI** – para automação de mouse e teclado  
 - **Pandas** – para leitura e manipulação da base de dados  
 - **Time** – para controle de pausas e sincronização  
 
 ---
 
-## 🎯 Resultado Esperado
+## 🎯 Resultado
 
-Ao final da execução, todos os produtos da base estarão cadastrados automaticamente no sistema, sem nenhuma intervenção manual.
+Ao final da execução, todos os produtos da base de dados CSV estarão cadastrados automaticamente no sistema, sem nenhuma intervenção manual.
 
 ---
 
