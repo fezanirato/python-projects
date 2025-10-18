@@ -37,13 +37,13 @@ Ao executar o script, o programa:
 
 ---
 
-##🎯 Resultado Esperado
+## 🎯 Resultado Esperado
 
 Ao final da execução, todos os produtos da base estarão cadastrados automaticamente no sistema, sem nenhuma intervenção manual.
 
 ---
 
-##👨‍💻 Desenvolvido por
+## 👨‍💻 Desenvolvido por
 
 Felipe Zanirato
 🔗 GitHub
