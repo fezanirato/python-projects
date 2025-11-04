@@ -50,5 +50,5 @@ O usuário pode conversar com o assistente em tempo real através de uma interfa
 ---
 ## 👨‍💻 Desenvolvido por
 **Felipe Zanirato**  
-🔗 [GitHub](https://github.com/XxZaniratoxX)  
+🔗 [GitHub](https://github.com/fezanirato)  
 📧 [felipe.zanirato@outlook.com](mailto:felipe.zanirato@outlook.com)
