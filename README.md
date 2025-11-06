@@ -1,5 +1,5 @@
 # 🐍 Projetos em Python
-
+ 
 Bem-vindo(a) ao meu repositório de **projetos práticos desenvolvidos em Python**!  
 Aqui você encontrará aplicações reais que unem **automação, análise de dados, machine learning e desenvolvimento web com IA**, demonstrando o poder e a versatilidade da linguagem Python em diferentes áreas.
 
