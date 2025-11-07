@@ -26,6 +26,6 @@ Neste projeto, exploraremos:
 4. **Proposta de Ações**: Análise detalhada para sugerir medidas que podem reduzir o número de cancelamentos.
 
 
-Conclusão:
+## Conclusão:
 
 Com este projeto, demonstramos a importância da análise de dados para entender os motivos por trás do cancelamento de clientes e como ela pode ajudar uma empresa a tomar decisões informadas para melhorar a retenção.
