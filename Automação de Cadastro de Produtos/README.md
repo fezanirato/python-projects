@@ -1,10 +1,10 @@
-# 🤖 Automação de Cadastro de Produtos
+# Automação de Cadastro de Produtos
 
 Este projeto tem como objetivo **automatizar o processo de cadastro de produtos em um sistema web**, lendo informações de um arquivo CSV e simulando o comportamento humano ao preencher formulários online.
 
 ---
 
-## 🧩 Contexto do Projeto
+## Contexto do Projeto
 
 Imagine que você tenha uma base de produtos contendo centenas de registros — como **códigos, marcas, tipos, categorias, preços e observações** — e precise cadastrar tudo isso manualmente em um sistema.  
 Esse processo seria **lento, cansativo e sujeito a erros humanos**.
@@ -14,7 +14,7 @@ O programa acessa o sistema, faz login e cadastra todos os produtos de forma aut
 
 ---
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 
 Ao executar o script, o programa:
 
@@ -28,7 +28,7 @@ Ao executar o script, o programa:
 
 ---
 
-## 🧠 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Python**
 - **PyAutoGUI** – para automação de mouse e teclado  
@@ -37,7 +37,7 @@ Ao executar o script, o programa:
 
 ---
 
-## 🎯 Resultado
+## Resultado
 
 Ao final da execução, todos os produtos da base de dados CSV estarão cadastrados automaticamente no sistema, sem nenhuma intervenção manual.
 
