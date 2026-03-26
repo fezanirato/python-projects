@@ -1,4 +1,4 @@
-# 🐍 Projetos em Python 
+# Projetos em Python 
  
 Bem-vindo(a) ao meu repositório de **projetos práticos desenvolvidos em Python**!  
 Aqui você encontrará aplicações reais que unem **automação, análise de dados, machine learning e desenvolvimento web com IA**, demonstrando o poder e a versatilidade da linguagem Python em diferentes áreas.
@@ -7,7 +7,7 @@ Cada projeto foi desenvolvido com o objetivo de aplicar conceitos importantes do
 
 ---
 
-## 🚀 Projetos incluídos neste repositório
+## Projetos incluídos neste repositório
 
 | # | Projeto | Descrição | Tecnologias |
 |---|----------|------------|--------------|
@@ -18,7 +18,7 @@ Cada projeto foi desenvolvido com o objetivo de aplicar conceitos importantes do
 
 ---
 
-## 🧠 Habilidades desenvolvidas
+## Habilidades desenvolvidas
 - Manipulação e tratamento de dados com **Pandas**
 - Automação de processos com **PyAutoGUI**
 - Criação de **dashboards e análises exploratórias**
@@ -29,7 +29,7 @@ Cada projeto foi desenvolvido com o objetivo de aplicar conceitos importantes do
 
 ---
 
-## 📚 Sobre os Projetos
+## Sobre os Projetos
 
 ### 🧰 **1. Automação de Cadastro de Produtos**
 Projeto que utiliza **PyAutoGUI** para automatizar o cadastro de centenas de produtos em um sistema web a partir de um arquivo CSV.  
@@ -48,7 +48,7 @@ Criação de um **chat interativo com IA** usando **Streamlit** e a **API da Ope
 O usuário pode conversar com o assistente em tempo real através de uma interface web moderna, sem precisar de HTML ou JavaScript.
 
 ---
-## 👨‍💻 Desenvolvido por
+## Desenvolvido por
 **Felipe Zanirato**  
 🔗 [GitHub](https://github.com/fezanirato)  
 📧 [felipe.zanirato@outlook.com](mailto:felipe.zanirato@outlook.com)
