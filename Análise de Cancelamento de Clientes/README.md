@@ -4,7 +4,7 @@
 
 Este projeto tem como objetivo realizar uma análise de dados sobre cancelamentos de clientes, utilizando Python, Jupyter Notebook e as bibliotecas Pandas e Plotly. Através dessa análise, buscamos identificar padrões e razões para o cancelamento, com o intuito de propor soluções para reduzir essa taxa.
 
-## O que Vamos Aprender?
+## O que Vamos Fazer
 
 Neste projeto, exploraremos:
 
