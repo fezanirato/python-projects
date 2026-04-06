@@ -1,6 +1,7 @@
 # Automação de Cadastro de Produtos 
+## Objetivo do Projeto
 
-Este projeto tem como objetivo **automatizar o processo de cadastro de produtos em um sistema web**, lendo informações de um arquivo CSV e simulando o comportamento humano ao preencher formulários online.
+Este projeto tem como objetivo automatizar o processo de cadastro de produtos em um sistema web, lendo informações de um arquivo CSV e simulando o comportamento humano ao preencher formulários online.
 
 ---
 
