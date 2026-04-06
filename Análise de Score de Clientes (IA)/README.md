@@ -17,7 +17,7 @@ Desenvolver modelos de classificação e identificar qual apresenta melhor desem
 - Tratamento de dados (valores nulos e inconsistências)  
 - Seleção das variáveis (features)  
 - Treinamento de modelos de classificação  
-- Avaliação e comparação dos modelos  
+- Avaliação e comparação dos modelos - Árvore de Decisão e KNeighborhood  
 - Análise das variáveis mais importantes  
 
 ---
@@ -31,7 +31,7 @@ Desenvolver modelos de classificação e identificar qual apresenta melhor desem
 ---
 
 ## Resultado
-O modelo permite prever o comportamento dos clientes, ajudando o banco a reduzir riscos e melhorar decisões financeiras.
+O modelo utilizado prever o comportamento dos clientes foi o modelo Árvore de Decisão, foi o modelo que obteve maior acurácia ajudando o banco a reduzir riscos e decidir quais são os melhores pagadores para concessão de créditos.
 
 ---
 
