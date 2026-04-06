@@ -35,3 +35,9 @@ E pensei nas seguintes soluções para os problemas citados:
 - Aplicar promoções para planos trimestrais, semestrais e anuais, fazendo com que o cliente entenda que vale mais a pena.
 - Otimizar a eficiência do time de suporte ao cliente, fazendo com que o problema seja resolvido no primeiro contato.
 - Reunião com o time financeiro para resolver atrasos de contas em até 10 dias.
+
+## Desenvolvido por
+
+Felipe Zanirato  
+[GitHub](https://github.com/fezanirato)  
+[felipe.zanirato@outlook.com](mailto:felipe.zanirato@outlook.com)
