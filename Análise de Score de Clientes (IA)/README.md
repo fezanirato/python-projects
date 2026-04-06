@@ -31,7 +31,7 @@ Desenvolver modelos de classificação e identificar qual apresenta melhor desem
 ---
 
 ## Resultado
-O modelo utilizado prever o comportamento dos clientes foi o modelo Árvore de Decisão, foi o modelo que obteve maior acurácia ajudando o banco a reduzir riscos e decidir quais são os melhores pagadores para concessão de créditos.
+O modelo utilizado para prever o comportamento dos clientes foi o modelo Árvore de Decisão, foi o modelo que obteve maior acurácia ajudando o banco a reduzir riscos e decidir quais são os melhores pagadores para concessão de créditos.
 
 ---
 
