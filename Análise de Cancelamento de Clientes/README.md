@@ -26,4 +26,12 @@ Este projeto tem como objetivo realizar uma análise de dados sobre cancelamento
 
 ## Conclusão:
 
-Com este projeto, demonstramos a importância da análise de dados para entender os motivos por trás do cancelamento de clientes e como ela pode ajudar uma empresa a tomar decisões informadas para melhorar a retenção.
+Após a análise dos gráficos que fiz, cheguei a conclusão que a maior parte dos cancelamentos eram realizados por:
+1- Assinantes Mensais
+2- Assinantes que ligavam para o suporte ao cliente mais de 4 vezes
+3- Assinantes que tinham a conta atrasada em mais de 20 dias
+
+E pensei nas seguintes soluções para os problemas citados: 
+1- Aplicar promoções para planos trimestrais, semestrais e anuais, fazendo com que o cliente entenda que vale mais a pena.
+2- Otimizar a eficiência do time de suporte ao cliente, fazendo com que o problema seja resolvido no primeiro contato.
+3- Reunião com o time financeiro para resolver atrasos em até 10 dias.
