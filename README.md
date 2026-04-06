@@ -31,19 +31,19 @@ Cada projeto foi desenvolvido com o objetivo de aplicar conceitos importantes do
 
 ## Sobre os Projetos
 
-### 🧰 **1. Automação de Cadastro de Produtos**
+### **1. Automação de Cadastro de Produtos**
 Projeto que utiliza **PyAutoGUI** para automatizar o cadastro de centenas de produtos em um sistema web a partir de um arquivo CSV.  
 A aplicação realiza login, preenche os formulários e envia os dados automaticamente, simulando ações humanas.
 
-### 📊 **2. Análise de Cancelamento de Clientes**
+### **2. Análise de Cancelamento de Clientes**
 Análise completa de uma base de clientes para identificar padrões e causas de cancelamento.  
 Com o tratamento e visualização de dados, o projeto busca propor **soluções para reduzir churn** e melhorar a retenção de clientes.
 
-### 🧮 **3. Análise de Score de Clientes**
+### **3. Análise de Score de Clientes**
 Neste projeto, é feita uma análise de **score bancário**, aplicando modelos de **classificação supervisionada**.  
 O código testa e compara diferentes algoritmos para prever se um cliente é confiável ou não para concessão de crédito.
 
-### 💬 **4. ChatBot com Inteligência Artificial**
+### **4. ChatBot com Inteligência Artificial**
 Criação de um **chat interativo com IA** usando **Streamlit** e a **API da OpenAI (ChatGPT)**.  
 O usuário pode conversar com o assistente em tempo real através de uma interface web moderna, sem precisar de HTML ou JavaScript.
 
