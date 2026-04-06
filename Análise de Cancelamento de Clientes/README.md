@@ -6,8 +6,6 @@ Este projeto tem como objetivo realizar uma análise de dados sobre cancelamento
 
 ## O Que Foi Feito
 
-Neste projeto, realizei:
-
 - **Análise exploratória de dados**: Carregamento, limpeza e análise de uma base de dados de clientes.
 - **Identificação de padrões de cancelamento**: Através de gráficos interativos, como os gerados pelo Plotly, e cálculos estatísticos, foi possível identificar os fatores que mais influenciam no cancelamento de assinaturas.
 - **Proposta de soluções**: Com base nos insights extraídos da análise, propuz ações para reduzir o número de cancelamentos.
