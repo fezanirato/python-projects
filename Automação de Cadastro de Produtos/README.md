@@ -7,7 +7,7 @@ Este projeto tem como objetivo automatizar o processo de cadastro de produtos em
 
 ## Contexto do Projeto
 
-Imagine que você tenha uma base de produtos contendo centenas de registros — como **códigos, marcas, tipos, categorias, preços e observações** — e precise cadastrar tudo isso manualmente em um sistema.  
+Imagine que você tenha uma base de produtos contendo centenas de registros — como códigos, marcas, tipos, categorias, preços e observações — e precise cadastrar tudo isso manualmente em um sistema web.  
 Esse processo seria lento, cansativo e sujeito a erros humanos.
 
 Neste projeto, utilizei Python para automatizar completamente essa tarefa.  
@@ -31,21 +31,21 @@ Ao executar o script, o programa:
 
 ## Tecnologias Utilizadas
 
-- **Python**
-- **PyAutoGUI** – para automação de mouse e teclado  
-- **Pandas** – para leitura e manipulação da base de dados  
-- **Time** – para controle de pausas e sincronização  
+- Python
+- PyAutoGUI – para automação de mouse e teclado  
+- Pandas – para leitura e manipulação da base de dados  
+- Time – para controle de pausas e sincronização  
 
 ---
 
 ## Resultado
 
-Ao final da execução, todos os produtos da base de dados CSV estarão cadastrados automaticamente no sistema, sem nenhuma intervenção manual.
+Ao final da execução, todos os produtos da base de dados CSV serão cadastrados automaticamente no sistema web, sem nenhuma intervenção manual.
 
 ---
 
 ## Desenvolvido por
 
-**Felipe Zanirato**  
+Felipe Zanirato  
 [GitHub](https://github.com/fezanirato)  
 [felipe.zanirato@outlook.com](mailto:felipe.zanirato@outlook.com)
