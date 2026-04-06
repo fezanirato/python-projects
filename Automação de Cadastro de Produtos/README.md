@@ -43,8 +43,8 @@ Ao final da execução, todos os produtos da base de dados CSV estarão cadastra
 
 ---
 
-## 👨‍💻 Desenvolvido por
+## Desenvolvido por
 
 **Felipe Zanirato**
-🔗 [GitHub](https://github.com/fezanirato)  
-📧 [felipe.zanirato@outlook.com](mailto:felipe.zanirato@outlook.com)
+[GitHub](https://github.com/fezanirato)  
+[felipe.zanirato@outlook.com](mailto:felipe.zanirato@outlook.com)
