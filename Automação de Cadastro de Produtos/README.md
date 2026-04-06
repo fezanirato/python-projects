@@ -8,7 +8,7 @@ Este projeto tem como objetivo automatizar o processo de cadastro de produtos em
 ## Contexto do Projeto
 
 Imagine que você tenha uma base de produtos contendo centenas de registros — como **códigos, marcas, tipos, categorias, preços e observações** — e precise cadastrar tudo isso manualmente em um sistema.  
-Esse processo seria **lento, cansativo e sujeito a erros humanos**.
+Esse processo seria lento, cansativo e sujeito a erros humanos.
 
 Neste projeto, utilizei Python para automatizar completamente essa tarefa.  
 O programa acessa o sistema, faz login e cadastra todos os produtos de forma automática, como se você mesmo estivesse usando o computador.
