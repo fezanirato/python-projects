@@ -1,5 +1,5 @@
 # ChatBot com IA utilizando Python, Streamlit e OpenAI
-<img src="Chatbot com IA/Ilustação do Chatbot.jpg" alt="Preview do Chatbot" />
+<img src="Chatbot com IA/Ilustação do Chatbot.jpeg" alt="Preview do Chatbot" />
 ## Sobre o Projeto
 
 Este projeto consiste no desenvolvimento de um **ChatBot com Inteligência Artificial**.
