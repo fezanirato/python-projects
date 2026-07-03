@@ -3,7 +3,6 @@
 ## Ilustração do Projeto
 <img src="Ilustração Chatbot.jpeg" alt="Preview do Chatbot" />
 
-
 ## Sobre o Projeto
 
 Este projeto consiste no desenvolvimento de um **ChatBot com Inteligência Artificial**.
