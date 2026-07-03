@@ -1,6 +1,6 @@
 # Análise de Cancelamento de Clientes
 
-##Ilustração do Projeto
+## Ilustração do Projeto
 <img src="Ilustração Gráficos com Python.jpeg" alt="Preview do Gráfico" />
 
 ## Objetivo do Projeto
