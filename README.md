@@ -14,7 +14,7 @@ Cada projeto foi desenvolvido com o objetivo de aplicar conceitos importantes do
 | 1 | [Automação de Cadastro de Produtos](./Automação%20de%20Cadastro%20de%20Produtos) | Automatiza o processo de cadastro de produtos em um sistema web, lendo dados de um arquivo CSV e simulando interações humanas com teclado e mouse. | `Python`, `PyAutoGUI`, `Pandas`, `Time` |
 | 2 | [Análise de Cancelamento de Clientes](./Análise%20de%20Cancelamento%20de%20Clientes) | Projeto de análise de dados que identifica os principais motivos de cancelamento de clientes e propõe soluções baseadas em métricas e insights extraídos dos dados. | `Python`, `Pandas`, `Matplotlib`, `Seaborn`, `Jupyter` |
 | 3 | [Análise de Score de Clientes (IA)](./Análise%20de%20Score%20de%20Clientes%20%28IA%29) | Projeto de Machine Learning para prever o score de clientes de um banco, classificando-os conforme o perfil e histórico de crédito, utilizando modelos preditivos. | `Python`, `Scikit-learn`, `Pandas`, `NumPy`, `Matplotlib` |
-| 4 | [ChatBot com Inteligência Artificial](./ChatBot%20com%20Inteligência%20Artificial) | Desenvolvimento de um site interativo com IA usando Streamlit e a API da OpenAI. O usuário conversa com um chatbot que responde dinamicamente, simulando um assistente virtual. | `Python`, `Streamlit`, `OpenAI API`, `HTML/CSS (via Streamlit)` |
+| 4 | [ChatBot com Inteligência Artificial](./ChatBot%20com%20IA) | Desenvolvimento de um site interativo com IA usando Streamlit e a API da OpenAI. O usuário conversa com um chatbot que responde dinamicamente, simulando um assistente virtual. | `Python`, `Streamlit`, `OpenAI API`, `HTML/CSS (via Streamlit)` |
 
 ---
 
