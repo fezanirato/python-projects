@@ -1,5 +1,8 @@
 # Análise de Score de Clientes
 
+## Ilustração do Projeto
+<img src="Ilustração Gráficos com Python.jpeg" alt="Preview do Gráfico" />
+
 ## Sobre o Projeto
 Este projeto utiliza Python e Machine Learning para analisar o score de clientes de um banco.
 
